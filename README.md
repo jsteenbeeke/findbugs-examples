@@ -1,0 +1,3 @@
+Usage:
+
+`mvn findbugs:check`
